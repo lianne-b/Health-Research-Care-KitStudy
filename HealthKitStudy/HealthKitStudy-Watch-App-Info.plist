@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIBackgroundModes</key>
+	<array/>
+	<key>WKBackgroundModes</key>
+	<array>
+		<string>workout-processing</string>
+	</array>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>안녕하세요~정보 퍼가요~ (사용자의 workout data를 어떻게 활용할 것인지 설명하는 부분입니다. )</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>안녕하세요~정보 퍼가요~  (사용자의 workout data를 어떻게 활용할 것인지 설명하는 부분입니다. )</string>
+</dict>
+</plist>
